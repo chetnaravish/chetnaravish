@@ -1,92 +1,33 @@
-# 👋 Hi, I'm Chetna Ravish
+ Hi, I'm Chetna 
 
-## 🚀 About Me
+Digital Marketing student and web creator from Kaithal, Haryana. I combine marketing, AI tools and vibe coding to build things that help brands and people grow online.
 
-I'm a **Digital Marketing with AI student** passionate about building real-world projects using Artificial Intelligence.
+ About Me
 
-I specialize in using AI tools to create websites, automate workflows, generate content, and solve business problems efficiently.
+-  Currently studying Digital Marketing with AI at Zed King Institute, Kaithal
+-  Building websites and web apps through vibe coding, using AI tools and smart prompts
+-  Learning and practicing SEO, content creation and social media management
+-  Running my own YouTube channel, **@chetnacreativecore**, for my creative hobbies like crochet and crafting
+-  Always learning by building real projects
 
-Although I don't write complex code from scratch, I can build complete projects using modern AI tools and understand how to work with AI-assisted development.
+Projects
 
----
+| Project | Description | Links |
+|---------|-------------|-------|
+| Portfolio | My personal portfolio website with an admin panel and blog | [Live](https://chetnaportflio.vercel.app/) · [Code](https://github.com/chetnaravish/portfolio) |
+| MDN Global School Website | School website with an AI chatbot and an interactive robot tour | [Live](https://mdnglobalschool.vercel.app/) |
 
-## 💡 What I'm Learning
+ Skills
 
-- Artificial Intelligence
-- Prompt Engineering
-- AI Website Development
-- Digital Marketing
-- Social Media Marketing
-- Automation
-- Git & GitHub
+| Area | Technologies |
+|------|--------------|
+| Vibe Coding | Building websites and apps with AI tools and prompt engineering |
+| Deployment | Vercel, Render, GitHub |
+| Digital Marketing | SEO, Social Media Management, Content Creation |
+| Creative Tools | Video Editing, AI Tools |
 
----
+ Let's Connect
 
-## 🛠️ Tools & Technologies
-
-- ChatGPT
-- Gemini
-- Claude
-- Cursor AI
-- GitHub Copilot
-- Canva AI
-- Figma
-- VS Code
-- Git & GitHub
-
----
-
-## 🌐 Skills
-
-- AI Assisted Website Development
-- Landing Page Creation
-- Prompt Engineering
-- SEO Basics
-- Social Media Strategy
-- Content Creation
-- AI Automation
-- Digital Marketing
-
----
-
-## 🚀 Current Focus
-
-- Building AI Projects
-- Learning Modern Web Development
-- Creating Marketing Solutions with AI
-- Exploring Automation Tools
-
----
-
-## 📌 Featured Projects
-
-Coming Soon...
-
-- AI Travel Guide
-- AI Marketing Toolkit
-- Portfolio Website
-- Automation Projects
-
----
-
-## 📈 Goals for 2026
-
-✔ Build 20+ AI Projects
-
-✔ Contribute to Open Source
-
-✔ Master AI Workflow Automation
-
-✔ Learn Full Stack Development with AI
-
-✔ Create Real-World Digital Marketing Projects
-
----
-
-## 📫 Connect with Me
-
-📧 Email: chetnaravishchetnaravish@gmail.com
-
----
-
-⭐ "AI won't replace creativity. People who know how to use AI effectively will build the future."
+- 🌐 [Portfolio](https://chetnaportflio.vercel.app/)
+- 💼 [LinkedIn](www.linkedin.com/in/chetnaravish)
+- 📺 [YouTube: @chetnacreativecore](https://www.youtube.com/@chetnacreativecore)
